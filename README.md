@@ -16,3 +16,8 @@
 -  [CSS与数学的奥秘-形态变化和Matrix](https://github.com/hubvue/nota/issues/8)
 -  [jQuery技术内幕](https://github.com/hubvue/nota/issues/14)
 - ### ES5.1新增语法
+-  [ES5-数组方法](https://github.com/hubvue/nota/issues/12)
+-  [ES5-Object.prototype上的方法](https://github.com/hubvue/nota/issues/11)
+-  [ES5-JSON格式](https://github.com/hubvue/nota/issues/10)
+-  [ES5严格模式及限制](https://github.com/hubvue/nota/issues/9)
+
