@@ -4,6 +4,6 @@
 
 ## 笔记目录
 ### JavaScript语言新发展
--1.  #### 精英预读班
- -1.1. [你不知道的HTML](https://github.com/hubvue/nota/issues/13)
+- 1. #### 精英预读班
+ - 1.1. [你不知道的HTML](https://github.com/hubvue/nota/issues/13)
 - #### ES5.1新增语法
