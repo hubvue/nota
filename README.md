@@ -1,7 +1,7 @@
 # nota
 ## 一灯学习笔记，从这里追逐梦想
 
-##思维导图
+## 思维导图
 总体模块
 ![](https://github.com/hubvue/nota/blob/master/image/main.png?raw=true)
 
