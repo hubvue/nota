@@ -23,7 +23,7 @@
 -  [ES5-Object.prototype上的方法](https://github.com/hubvue/nota/issues/11)
 -  [ES5-JSON格式](https://github.com/hubvue/nota/issues/10)
 -  [ES5严格模式及限制](https://github.com/hubvue/nota/issues/9)
-- #### Linux基础入门（）
+- #### Linux基础入门
 -  [Linux基础入门](https://github.com/hubvue/nota/issues/15)
 - #### PHP与MySQL开发入门（未完成）
 -  [PHP基础入门](https://github.com/hubvue/nota/issues/16)
