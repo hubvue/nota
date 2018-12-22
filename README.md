@@ -30,6 +30,7 @@
 -  [PHP面向对象--基础](https://github.com/hubvue/nota/issues/17)
 -  [PHP面向对象--构造方法和析构方法](https://github.com/hubvue/nota/issues/18)
 -  [PHP面向对象---封装、继承、多态](https://github.com/hubvue/nota/issues/19)
+-  [PHP面向对象--抽象类与接口](https://github.com/hubvue/nota/issues/20)
 - #### ECMAScript6（未完成）
 ### 大话NodeJS72般变化（未完成）
 
