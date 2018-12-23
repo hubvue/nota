@@ -25,7 +25,7 @@
 -  [ES5严格模式及限制](https://github.com/hubvue/nota/issues/9)
 - #### Linux基础入门
 -  [Linux基础入门](https://github.com/hubvue/nota/issues/15)
-- #### PHP与MySQL开发入门（未完成）
+- #### PHP与MySQL开发入门
 -  [PHP基础入门](https://github.com/hubvue/nota/issues/16)
 -  [PHP面向对象--基础](https://github.com/hubvue/nota/issues/17)
 -  [PHP面向对象--常见的关键字](https://github.com/hubvue/nota/issues/22)
@@ -33,6 +33,7 @@
 -  [PHP面向对象---封装、继承、多态](https://github.com/hubvue/nota/issues/19)
 -  [PHP面向对象--抽象类与接口](https://github.com/hubvue/nota/issues/20)
 -  [PHP异常处理](https://github.com/hubvue/nota/issues/21)
+-  [PHP与MySQL操作](https://github.com/hubvue/nota/issues/21)
 - #### ECMAScript6（未完成）
 ### 大话NodeJS72般变化（未完成）
 
