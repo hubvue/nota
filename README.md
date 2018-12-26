@@ -33,8 +33,9 @@
 -  [PHP面向对象---封装、继承、多态](https://github.com/hubvue/nota/issues/19)
 -  [PHP面向对象--抽象类与接口](https://github.com/hubvue/nota/issues/20)
 -  [PHP异常处理](https://github.com/hubvue/nota/issues/21)
--  [PHP与MySQL操作](https://github.com/hubvue/nota/issues/21)
+-  [PHP与MySQL操作](https://github.com/hubvue/nota/issues/23)
 - #### ECMAScript6（未完成）
+-  [ECMAScript6-变量声明与变量的解构赋值](https://github.com/hubvue/nota/issues/24)
 ### 大话NodeJS72般变化（未完成）
 
 ### 前段工程化（未完成）
