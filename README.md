@@ -7,7 +7,7 @@
 
 ## 笔记目录
 ### JavaScript语言新发展
-- #### ![思维导图](https://github.com/hubvue/nota/blob/master/image/%E7%AC%AC%E4%B8%80%E7%89%88%E5%9D%97.png)
+- #### [思维导图](https://github.com/hubvue/nota/blob/master/image/%E7%AC%AC%E4%B8%80%E7%89%88%E5%9D%97.png)
 - #### 精英预读班
 -  [你不知道的HTML](https://github.com/hubvue/nota/issues/13)
 -  [CSS构建3D世界](https://github.com/hubvue/nota/issues/1)
