@@ -37,6 +37,12 @@
 -  [PHP与MySQL操作](https://github.com/hubvue/nota/issues/23)
 - #### ECMAScript6（未完成）
 -  [ECMAScript6-变量声明与变量的解构赋值](https://github.com/hubvue/nota/issues/24)
+- #### 深度实践（未完成）
+-  [JavaScript与QA工程师]()
+-  [Typeof前世今生]()
+- #### 直播（未完成）
+-  [JavaScript测试试题讲解]()
+-  [你不知道的CSS]()
 ### 大话NodeJS72般变化（未完成）
 
 ### 前段工程化（未完成）
