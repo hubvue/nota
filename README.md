@@ -6,7 +6,7 @@
 ![](https://github.com/hubvue/nota/blob/master/image/main.png?raw=true)
 
 ## 笔记目录
-### [JavaScript语言新发展](https://github.com/hubvue/nota/nota/第一板块.md)
+### [JavaScript语言新发展](https://github.com/hubvue/nota/blob/master/nota/%E7%AC%AC%E4%B8%80%E6%9D%BF%E5%9D%97.md)
 ### 大话NodeJS72般变化（未完成）
 
 ### 前段工程化（未完成）
