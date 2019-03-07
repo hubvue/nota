@@ -14,7 +14,7 @@
 -  [ES5-Object.prototype上的方法](https://github.com/hubvue/nota/issues/11)
 -  [ES5-JSON格式](https://github.com/hubvue/nota/issues/10)
 -  [ES5严格模式及限制](https://github.com/hubvue/nota/issues/9)
-
+-  [你所不知道的JavaScript面向切面编程](http://blog.ctomorrow.top/2019/03/03/aop/)
 #### ES6+
 -  [ECMAScript6-变量声明与变量的解构赋值](https://github.com/hubvue/nota/issues/24)
 #### jQuery
@@ -25,11 +25,22 @@
 #### Server
 
 #### 前端工程化
-
+-  [Parcel初体验及特性分析](http://blog.ctomorrow.top/2019/02/26/parcel-start/)
+-  [yeoman的使用](http://blog.ctomorrow.top/2019/02/26/yeoman/)
+-  [学习Grunt构建方式](http://blog.ctomorrow.top/2019/02/26/grunt-start/)
+-  [前端工程化的持续集成](http://blog.ctomorrow.top/2019/02/26/ci-web/)
+-  [学习browserify](http://blog.ctomorrow.top/2019/02/26/browserify/)
+-  [学习Bower](http://blog.ctomorrow.top/2019/02/26/bower/)
+-  [前端工程化Linux预备知识](http://blog.ctomorrow.top/2019/02/26/linux-start/)
+-  [Linux的免密登录配置](http://blog.ctomorrow.top/2019/02/26/linux-mianmi/)
+-  [Rollup简单入门](http://blog.ctomorrow.top/2019/02/26/linux-start/)
+-  [Webpack4:Tree-shaking深度解析](http://blog.ctomorrow.top/2019/02/15/tree-shaking/)
+-  [前端工程化Linux预备知识](http://blog.ctomorrow.top/2019/02/26/linux-start/)
 #### 网络
 
 #### Performance
-
+-  [你所不知道的JavaScript面向切面编程](http://blog.ctomorrow.top/2019/03/03/aop/)
+-  [雅虎军规35条](http://blog.ctomorrow.top/2019/03/03/yahoo/)
 #### PHP
 -  [PHP基础入门](https://github.com/hubvue/nota/issues/16)
 -  [PHP面向对象--基础](https://github.com/hubvue/nota/issues/17)
@@ -42,7 +53,8 @@
 #### Linux
 -  [Linux基础入门](https://github.com/hubvue/nota/issues/15)
 -  [Vim命令合集](https://github.com/hubvue/nota/issues/25)
-
+-  [Linux的文件操作权限](http://blog.ctomorrow.top/2019/03/01/linux-fr/)
+-  [Linux的scp命令：传送文件](http://blog.ctomorrow.top/2019/03/01/linux-scp/)
 #### QA
 -  [JavaScript与QA工程师(理论篇)](https://github.com/hubvue/nota/issues/26)
 -  [来一打JavaScript集成化测试(实战篇)](https://github.com/hubvue/nota/issues/27)
