@@ -59,3 +59,6 @@
 -  [JavaScript与QA工程师(理论篇)](https://github.com/hubvue/nota/issues/26)
 -  [来一打JavaScript集成化测试(实战篇)](https://github.com/hubvue/nota/issues/27)
 
+#### 安全
+- [XSS跨站脚本攻击](https://github.com/hubvue/nota/security/xss.md)
+
